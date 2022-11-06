@@ -1,0 +1,145 @@
+*********ADMIN TEST OUTPUT**************
+TAdmin login only access by admin contact number and password 
+admin username- 9876543210
+password-admin
+
+-------------------------------------------------------------------------------------------------------
+************************************>> WELCOME TO MY ELECTRONICS <<************************************
+-------------------------------------------------------------------------------------------------------
+		1. Admin
+		2. User
+		3. EXIT
+-------------------------------------------------------------------------------------------------------
+Enter your choice
+1
+
+--------------------------------------->> WELCOME TO ADMIN LOGIN <<---------------------------------
+
+		1. Login
+		2. EXIT
+-------------------------------------------------------------------------------------------------------
+Enter your choice : 
+1
+Enter username (Contact No) : 
+12356
+
+Enter password: 123
+Invalid user credemtials.
+
+--------------------------------------->> WELCOME TO ADMIN LOGIN <<---------------------------------
+
+		1. Login
+		2. EXIT
+-------------------------------------------------------------------------------------------------------
+Enter your choice : 
+1
+Enter username (Contact No) : 
+9876543210
+
+Enter password: admi
+Invalid user credemtials.
+
+--------------------------------------->> WELCOME TO ADMIN LOGIN <<---------------------------------
+
+		1. Login
+		2. EXIT
+-------------------------------------------------------------------------------------------------------
+Enter your choice : 
+1
+Enter username (Contact No) : 
+9876543210
+
+Enter password: admin
+
+-------------------------------->> WELCOME TO ADMIN DASHBOARD <<------------------------------------
+		******* Select your choice *******
+		1. Check Product Quantity
+		2. Show All Users
+		3. Check Order History
+		4. Logout
+		5. EXIT
+-----------------------------------------------------------------------------------------------------
+Enter your choice : 
+1
+Enter product ID : 
+20
+Product ID: 20
+Product Name: Toshiba 1TB Portble 3.2HDD
+Product Quantity: 5
+-------------------------------->> WELCOME TO ADMIN DASHBOARD <<------------------------------------
+		******* Select your choice *******
+		1. Check Product Quantity
+		2. Show All Users
+		3. Check Order History
+		4. Logout
+		5. EXIT
+-----------------------------------------------------------------------------------------------------
+Enter your choice : 
+1
+Enter product ID : 
+22
+Invalid product ID. Please enter valid ID.
+
+-------------------------------->> WELCOME TO ADMIN DASHBOARD <<------------------------------------
+		******* Select your choice *******
+		1. Check Product Quantity
+		2. Show All Users
+		3. Check Order History
+		4. Logout
+		5. EXIT
+-----------------------------------------------------------------------------------------------------
+Enter your choice : 
+2
+
+-----------------------------------------------------------------------------------------------------
+	ID 		 NAME 			 CONTACT NO 			 EMAIL ID
+
+	9		JI CHANG		7418529632			jichang@gmail.com
+	10		user user		9638527410			jichang@gmail.com
+
+
+-------------------------------->> WELCOME TO ADMIN DASHBOARD <<------------------------------------
+		******* Select your choice *******
+		1. Check Product Quantity
+		2. Show All Users
+		3. Check Order History
+		4. Logout
+		5. EXIT
+-----------------------------------------------------------------------------------------------------
+Enter your choice : 
+3
+Enter user's Contact No: 
+5432
+--------------------------------------ORDER HISTORY------------------------------------
+Order ID: 24485		 Total Amount: 212239		 Order Date: 2022-11-05		 Payment Status: Paid
+Order ID: 16795		 Total Amount: 12350		 Order Date: 2022-11-05		 Payment Status: Paid
+Order ID: 22192		 Total Amount: 89190		 Order Date: 2022-11-05		 Payment Status: Paid
+Order ID: 25871		 Total Amount: 23749		 Order Date: 2022-11-05		 Payment Status: Paid
+Order ID: 27119		 Total Amount: 27549		 Order Date: 2022-11-05		 Payment Status: Paid
+Order ID: 29948		 Total Amount: 105444		 Order Date: 2022-11-06		 Payment Status: Paid
+----------------------------------------------------------------------------------------
+
+-------------------------------->> WELCOME TO ADMIN DASHBOARD <<------------------------------------
+		******* Select your choice *******
+		1. Check Product Quantity
+		2. Show All Users
+		3. Check Order History
+		4. Logout
+		5. EXIT
+-----------------------------------------------------------------------------------------------------
+Enter your choice : 
+4
+Admin successfully logout...
+
+--------------------------------------->> WELCOME TO ADMIN LOGIN <<---------------------------------
+
+		1. Login
+		2. EXIT
+-------------------------------------------------------------------------------------------------------
+Enter your choice : 
+2
+Program Exited..
+
+
+
+
